@@ -67,6 +67,7 @@ python dlib_predict_image.py --images test_image --models  models/ --upsample 1
 ```
 python dlib_predict_image.py --images test_image_low_res --models  models/ --upsample 1
 ```
+![image](https://user-images.githubusercontent.com/62781709/231472022-7aa5fe1e-b3ba-4d71-967d-ce603689f35f.png)
 
 - Make predictions on a video:
 ```
@@ -100,21 +101,28 @@ python dlib_face_detector.py --images dataset/gray/test/images --detector models
 ```
 python visualize_dataset.py --dataset dataset/ --color iron --set train
 ```
+
+![image](https://user-images.githubusercontent.com/62781709/231471709-88b56c8d-4518-4ffb-98d3-b0fc3d820983.png)
+
+
 - Thermal-Visual pairs
 ```
 python visualize_image_pairs.py --dataset dataset/ --color iron --set train
 
 ```
+![image](https://user-images.githubusercontent.com/62781709/231471470-95b9e7bb-b13a-4a5e-a7dd-e2b0d4204682.png)
 
 - Make Patch Detection:
 ```
 python ISP_patches.py
 
+```
+
 ![image](https://user-images.githubusercontent.com/62781709/231469947-f68659ed-b684-4c2b-b74c-d62da99981ee.png)
 ![image](https://user-images.githubusercontent.com/62781709/231470549-21184315-9058-454d-908e-2f91e8cf7b37.png)
 
 
-```
+
 
 
 ## If you use the dataset/source code/pre-trained models in your research, please cite our work:
