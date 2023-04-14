@@ -120,36 +120,3 @@ python ISP_patches.py
 
 ![image](https://user-images.githubusercontent.com/62781709/231469947-f68659ed-b684-4c2b-b74c-d62da99981ee.png)
 ![image](https://user-images.githubusercontent.com/62781709/231470549-21184315-9058-454d-908e-2f91e8cf7b37.png)
-
-
-
-
-
-## If you use the dataset/source code/pre-trained models in your research, please cite our work:
-```
-@INPROCEEDINGS{9708901,
-  author={Kuzdeuov, Askat and Koishigarina, Darina and Aubakirova, Dana and Abushakimova, Saniya and Varol, Huseyin Atakan}
-  booktitle={2022 IEEE/SICE International Symposium on System Integration (SII)}, 
-  title={SF-TL54: A Thermal Facial Landmark Dataset with Visual Pairs}, 
-  year={2022},
-  volume={},
-  number={},
-  pages={748-753},
-  doi={10.1109/SII52469.2022.9708901}}
-```
-
-  ```
-  @Article{s21103465,
- AUTHOR = {Abdrakhmanova, Madina and Kuzdeuov, Askat and Jarju, Sheikh and Khassanov, Yerbolat and Lewis, Michael and Varol, Huseyin Atakan},
- TITLE = {SpeakingFaces: A Large-Scale Multimodal Dataset of Voice Commands with Visual and Thermal Video Streams},
- JOURNAL = {Sensors},
- VOLUME = {21},
- YEAR = {2021},
- NUMBER = {10},
- ARTICLE-NUMBER = {3465},
- URL = {https://www.mdpi.com/1424-8220/21/10/3465},
- ISSN = {1424-8220},
- DOI = {10.3390/s21103465}
-}
-```
-
