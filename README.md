@@ -124,3 +124,9 @@ python ISP_patches.py
 
 ![image](https://user-images.githubusercontent.com/62781709/231469947-f68659ed-b684-4c2b-b74c-d62da99981ee.png)
 ![image](https://user-images.githubusercontent.com/62781709/231470549-21184315-9058-454d-908e-2f91e8cf7b37.png)
+
+
+### Credits :
+'''
+Some part of this repository is obtained from the following repository : https://github.com/IS2AI/thermal-facial-landmarks-detection/
+'''
